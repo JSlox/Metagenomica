@@ -9,5 +9,5 @@ POsteriormente se filtraron las secuencias por calidad y se agruparon las secuen
 Luego se corrigio el index bleed (indices asignados a lecturas erroneas) filtrando la tabla de OTUs con un umbral de 0,005%.
 Finalmente se asignó una taxonomía a los OTUs, utilizando la base de datos UNITE
 
-Al comparar los resultados obtenidos al filtrar las secuencias menores a 200 pb con el resultado que se obtiene filtrando secuencias menores a 300 pb se observa que si se filtra a 300 pb se piede mucha información de los datos, obteniendo una cantidad de OTUs muy inferior a la obtenida filtrando a 200 pb. Mediante la filtración a 200 pb se obtuvieron 1257 OTUs de fungi, en cambio, al filtrar con 300 se obtuvieron sólo 329 OTUs, por lo que en este caso es más correcto utilizar una filtración de 200 pb.
+Al comparar los resultados obtenidos al filtrar las secuencias menores a 200 pb con el resultado que se obtiene filtrando secuencias menores a 300 pb se observa que si se filtra a 300 pb se pierde mucha información de los datos, obteniendo una cantidad de OTUs muy inferior a la obtenida filtrando a 200 pb. Mediante la filtración a 200 pb se obtuvieron 1257 OTUs de fungi, en cambio, al filtrar con 300 se obtuvieron sólo 329 OTUs, por lo que en este caso es más correcto utilizar una filtración de 200 pb.
 
